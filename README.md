@@ -1,5 +1,5 @@
 # ProxyShell.ps1
-EXCHANGE PROXYSHELL CHECKER WITH POWERSHELL
+Exchange ProxyShell checker via powershell.
 
 # Utilisation
 L'URL doit être sous la forme https:// obligatoirement.
