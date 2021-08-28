@@ -7,4 +7,4 @@ Le script fait une requetes sur le webmail avec comme URL : /autodiscover/autodi
 
 si le serveur répond avec un "302 Found" le serveur est potentiellement vulnérable.
 
-#premiere entrainement PowerShell.
+#premiere test en PowerShell.
